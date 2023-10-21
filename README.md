@@ -10,9 +10,17 @@ Tailwind CSS kullanıldı.
 
 Eğer uygulama kurulduğu bilgisayarda açılmazsa uygulamanın ekran görüntüleri aşağıya eklenmiştir.
 
-![screencapture-localhost-3000-2023-10-21-18_52_43](https://github.com/mcem1kurt/HITATEKCase/assets/105525696/a13f3176-5a43-4538-bda6-fca4d90957a0)
-![screencapture-localhost-3000-2023-10-21-18_52_19](https://github.com/mcem1kurt/HITATEKCase/assets/105525696/57a42883-d0a0-4283-89ef-1e8a0d4b0aae)
 ![screencapture-localhost-3000-2023-10-21-18_51_57](https://github.com/mcem1kurt/HITATEKCase/assets/105525696/2a63cf09-f049-4c44-9a07-e0b8538bf857)
+
+*****************************************************************************************************************************
+
+![screencapture-localhost-3000-2023-10-21-18_52_19](https://github.com/mcem1kurt/HITATEKCase/assets/105525696/57a42883-d0a0-4283-89ef-1e8a0d4b0aae)
+
+*****************************************************************************************************************************
+
+![screencapture-localhost-3000-2023-10-21-18_52_43](https://github.com/mcem1kurt/HITATEKCase/assets/105525696/a13f3176-5a43-4538-bda6-fca4d90957a0)
+
+
 
 First, run the development server:
 
