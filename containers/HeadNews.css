@@ -1,0 +1,38 @@
+.blue-background{
+    float: left;
+    position: absolute;
+    height: 50px;
+    width: 150px;
+    left: 10%;
+    top: 47%;
+    background-color: aqua;
+    padding: 5px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.title-background{
+    float: left;
+    position: absolute;
+    
+    height: auto;
+    width: auto;
+    max-width: 60%;
+    left: 12%;
+    top: 40%;
+    background-color: black;
+    padding: 5px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.image{
+    display: inline;
+}
+.avatar{
+    border-radius: 50%;
+}
+.author{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 20px;    
+}

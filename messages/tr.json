@@ -1,0 +1,10 @@
+{
+    "Navbar": {
+        "news": "HABERLER",
+        "features" : "ÖZELLİKLER",
+        "topics": "BAŞLIKLAR",
+        "video" : "VİDEO",
+        "live": "CANLI"   ,
+        "search":"Ara" 
+    }
+  }

@@ -1,0 +1,14 @@
+
+.avatar{
+    border-radius: 50%;
+}
+.author-block{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.hr-vertical{ 
+    border-left:1px solid #e0e0e0;
+    height:auto;
+    width: 2px;
+}

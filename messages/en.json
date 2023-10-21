@@ -1,0 +1,10 @@
+{
+    "Navbar": {
+        "news": "NEWS",
+        "features" : "FEATURES",
+        "topics": "TOPICS",
+        "video" : "VIDEO",
+        "live": "LIVE",
+        "search":"Search"     
+    }
+  }
